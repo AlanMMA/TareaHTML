@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgb(93, 140, 148);
+}
+
+.CuadroTexto{
+    width: 400px;
+    background: #7272b0;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: rgb(46, 35, 35);
+}
+
+.CuadroTexto h1{
+    font-size: 22px;
+    margin-bottom: 20px;
+    background:#7272b0 ;
+}
+
+.controls{
+    width: 100%;
+    background: white;
+    padding: 5px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 2px black;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+.boton{
+    width: 30%;
+    background: white;
+    padding: 3px;
+    border-radius: 20px;
+    margin-bottom: 16px;
+    font-size: 15px;
+}
+
+.CuadroTexto .boton{
+
+    width: 100%;
+
+}
+
